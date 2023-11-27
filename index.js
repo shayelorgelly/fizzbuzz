@@ -1,4 +1,4 @@
-for (i = 0; i < 100; i++) {
+for (i = 1; i < 101; i++) {
     console.log(function () {
         switch (i % 15) {
             case 0:
