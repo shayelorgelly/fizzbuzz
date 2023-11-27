@@ -1,5 +1,5 @@
 package net.shayelorgelly;
-
+//arrow casing requires at least java 12
 public class Main {
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
